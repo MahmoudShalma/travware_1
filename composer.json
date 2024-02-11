@@ -1,0 +1,12 @@
+{
+    "name": "mahmo/order_managment",
+    "authors": [
+        {
+            "name": "Mahmoud Ahmed Shalma",
+            "email": "mahmoud.shalma@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}
